@@ -13,3 +13,7 @@ No diretório web:
 Instruções implementar a aplicação:
 No diretorio mobile:
 - npm start
+
+OBS: O número 192.168.0.105 deverá ser substituido pelo IP externo do computador nos arquivos:
+PointsController.ts
+ItemsController.ts
